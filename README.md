@@ -1,6 +1,4 @@
-### hi im patrick
-
-take a look around, idk what to say
+### hey :)
 
 <!--
 **patwang123/patwang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
